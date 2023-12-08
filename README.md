@@ -9,7 +9,7 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile-url"  style="margin-right: 20px;">
+<a href="https://www.linkedin.com/in/rohan-dhar-37977773/"  style="margin-right: 20px;">
     <img src="https://github.com/deusexmachina892/resume/blob/main/images/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
 &nbsp;&nbsp;
