@@ -91,7 +91,7 @@ Dedicated and results-driven Full Stack Engineer with a proven track record of d
 - Programming Languages: Typescript, Javascript, Python, Golang, Java.
 - Frameworks: Express, Nest, Fastify, Apollo/Graphql, Flask, Nextjs
 - Runtimes: Node.
-- Persistent Storage: SQL - Postgress, MySQL; NoSQL - MongoDB, Firebase; Graph - Azure CosmosDB.
+- Persistent Storage: SQL - Postgres, MySQL; NoSQL - MongoDB, Firebase; Graph - Azure CosmosDB.
 - Caching - Redis.
 - Search: Elasticsearch, Typesense.
 - Cloud Infrastructure: AWS, Google Cloud, Digital Ocean.
