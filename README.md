@@ -4,22 +4,22 @@
 ## Full Stack Engineer
 
 
-<a href="mailto:deusexmachina892@gmail.com">
+<a href="mailto:deusexmachina892@gmail.com" target="blank">
     <img src="https://github.com/deusexmachina892/resume/blob/main/images/gmail.png" alt="Email" width="30" height="30">
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/rohan-dhar-37977773/"  style="margin-right: 20px;">
+<a href="https://www.linkedin.com/in/rohan-dhar-37977773/"  target="blank">
     <img src="https://github.com/deusexmachina892/resume/blob/main/images/linkedin.png" alt="LinkedIn" width="30" height="30">
 </a>
 &nbsp;&nbsp;
 
-<a href="https://github.com/deusexmachina892"  style="margin-right: 20px;">
+<a href="https://github.com/deusexmachina892"  target="blank">
     <img src="https://github.com/deusexmachina892/resume/blob/main/images/github.png" alt="LinkedIn" width="30" height="30">
 </a>
 &nbsp;&nbsp;
 
-<a href="https://twitter.com/RohanDharOz">
+<a href="https://twitter.com/RohanDharOz" target="blank">
     <img src="https://github.com/deusexmachina892/resume/blob/main/images/twitter.png" alt="Email" width="30" height="30">
 </a>
 
